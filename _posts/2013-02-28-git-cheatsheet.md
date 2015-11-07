@@ -376,7 +376,7 @@ Merging
 
 
 Cherry-Picking
---------------
+-------
 
     git cherry-pick [--edit] [-n] [-m parent-number] [-s] [-x] <commit>
 
@@ -385,7 +385,7 @@ Cherry-Picking
 
 
 Squashing
----------
+-------
 WARNING: "git rebase" changes history. Be careful. Google it.
 
     git rebase --interactive HEAD~10
@@ -395,7 +395,7 @@ WARNING: "git rebase" changes history. Be careful. Google it.
 
 
 Conflicts
----------
+-------
 
     git mergetool
 
@@ -447,7 +447,7 @@ Sharing
   more obvious what is happening.
 
 Reverting
----------
+-------
 
     git revert <rev>
 
@@ -466,7 +466,7 @@ Reverting
 
 
 Fix mistakes / Undo
--------------------
+-------
 
     git reset --hard
 
@@ -493,7 +493,7 @@ Fix mistakes / Undo
 
 
 Plumbing
---------
+-------
 
 test <sha1-A> = $(git merge-base <sha1-A> <sha1-B>)
   determine if merging sha1-B into sha1-A is achievable as a fast forward;
@@ -501,7 +501,7 @@ test <sha1-A> = $(git merge-base <sha1-A> <sha1-B>)
 
 
 Stashing
---------
+-------
 
     git stash
     git stash save <optional-name>
@@ -587,7 +587,7 @@ Remotes
   all goes well, the result is pushable.
 
 Submodules
-----------
+-------
 
     git submodule add <remote_repository> <path/to/submodule>
 
@@ -634,12 +634,12 @@ Patches
   Useful for sharing changes without generating a git commit.
 
 Git Instaweb
-------------
+-------
 
     git instaweb --httpd=webrick [--start | --stop | --restart]
 
 Environment Variables
----------------------
+-------
 
     GIT_AUTHOR_NAME, GIT_COMMITTER_NAME
 
