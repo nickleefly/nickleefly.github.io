@@ -2,6 +2,7 @@
 layout: post
 title: "vagrant docker ssh"
 date: 2014-03-29 21:00
+comments: true
 categories: vagrant docker
 ---
 

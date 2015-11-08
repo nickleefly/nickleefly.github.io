@@ -2,6 +2,7 @@
 layout: post
 title: Mongodb document size limit
 date: 2013-02-26 21:50
+comments: true
 categories: mongodb youtube bson
 ---
 
