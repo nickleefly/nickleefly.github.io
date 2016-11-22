@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Chinese working in [TNC Shanghai](http://www.thenetcircle.com)
+I'm a Chinese working in [Pwc SDC shanghai](http://www.pwc.com/cn/en/sdc-advisory/shanghai/pwc-sdc.html)
 
 I have worked five years primarily working JS, Node.js, Mongodb, Go, Python, Unix, C etc.
 
