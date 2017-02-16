@@ -38,7 +38,7 @@ user → loadbalancer → frontend → lookup backend service → make backend A
 
 The frontend consists of a golang program that listens for http requests on port :8080. It is wrapped in the container
 
-[nickleefly/container/show][4]
+[nickleefly/container/env-show][4]
 
 The frontend service is configured to startup 2 replicas inside a Loaldbalanced Kubernetes service:
 
@@ -107,7 +107,7 @@ spec:
 
 The backend consists of another golang program which for http requests on port :5000. It is wrapped in the container
 
-[nickleefly/container/backend][5]
+[nickleefly/container/env-backend][5]
 
 Backend uses the advertises the label _be-type_
 
