@@ -340,8 +340,8 @@ You can, of course use [Google Container Registry][9]
 [1]: https://github.com/kubernetes/kubernetes.github.io/blob/master/docs/user-guide/services/index.md
 [2]: https://cloud.google.com/container-engine/docs/services/
 [3]: https://github.com/kubernetes/kubernetes.github.io/tree/master/docs/user-guide/environment-guide
-[4]: https://hub.docker.com/r/nickleefly/show/
-[5]: https://hub.docker.com/r/nickleefly/backend/
+[4]: https://hub.docker.com/r/nickleefly/env-show/
+[5]: https://hub.docker.com/r/nickleefly/env-backend/
 [6]: https://github.com/kubernetes/kubernetes/tree/master/cluster/addons/dns
 [7]: https://github.com/kubernetes/community/blob/master/contributors/design-proposals/networking.md
 [8]: http://kubernetes.io/v1.0/docs/user-guide/services.html#ips-and-vips
