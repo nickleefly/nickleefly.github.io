@@ -273,6 +273,13 @@ The above shows the service IP addresses. Since we're running this on GKE, it wi
 
 The public IP assigned to our Frontend Loadblancer is: 130.211.198.39
 
+### How to scale
+
+Simple like this
+
+    kubectl scale rc show-rc --replicas=5
+    kubectl scale rc backend-rc --replicas=5
+
 ### Test the GKE cluster
 
 The frontend service is available 130.211.198.39:80 so an invocation shows:
