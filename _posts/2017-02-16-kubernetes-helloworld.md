@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "A simple Kubernetes Frontend-Backend Service on Google Cloud Platform"
+title: "How to run Kubernetes Frontend-Backend Service on Google Cloud Platform"
 date: 2017-02-16 20:30
 comments: true
 categories: kubernetes gcloud
 ---
 
-# A simple Kubernetes Frontend-Backend Service on Google Cloud Platform
 
 Sample application that deploys a trivial [Kubernetes service][1] to connect a frontend system (show) with a backend (backend).
 
