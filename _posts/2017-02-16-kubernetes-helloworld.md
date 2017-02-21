@@ -337,6 +337,10 @@ Remember to rename the image section to whatever you taged to it.
 
 You can, of course use [Google Container Registry][9]
 
+If you want to push docker images to container registry
+
+Check [https://cloud.google.com/container-registry/docs/pushing][10]
+
 [1]: https://github.com/kubernetes/kubernetes.github.io/blob/master/docs/user-guide/services/index.md
 [2]: https://cloud.google.com/container-engine/docs/services/
 [3]: https://github.com/kubernetes/kubernetes.github.io/tree/master/docs/user-guide/environment-guide
@@ -346,3 +350,4 @@ You can, of course use [Google Container Registry][9]
 [7]: https://github.com/kubernetes/community/blob/master/contributors/design-proposals/networking.md
 [8]: http://kubernetes.io/v1.0/docs/user-guide/services.html#ips-and-vips
 [9]: https://cloud.google.com/container-registry/
+[10]: https://cloud.google.com/container-registry/docs/pushing
