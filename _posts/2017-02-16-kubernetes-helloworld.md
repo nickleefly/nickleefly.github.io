@@ -307,7 +307,7 @@ The above output is from the frontend and shows the backend discovery by both en
 
 The output shows the frontend discovered the backend using envionment variables IP address/port values:10.167.252.252:5000
 
-The output also shows the DNS SRV request contained the host and port to connect to from the frontend: be-srv.default.svc.cluster.local. port: 5000
+The output also shows the DNS SRV request contained the host and port to connect to from the frontend: backend-srv.default.svc.cluster.local. port: 5000
 
 ### Call Flow
 
