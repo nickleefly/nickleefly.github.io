@@ -8,7 +8,6 @@ I have worked eight years primarily working JS, Node.js, Mongodb, Go, Python, Un
 
 Recently doing kubernetes, docker, cloud functions, aws lambda and serverless
 
-You can also find me [http://careers.stackoverflow.com/nickleefly](http://careers.stackoverflow.com/nickleefly)
 
 Places You'll Find Me
 ---------------------
