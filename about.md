@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm a Chinese working in [Pwc SDC shanghai](http://www.pwc.com/cn/en/sdc-advisory/shanghai/pwc-sdc.html)
-
 I have worked eight years primarily working JS, Node.js, Mongodb, Go, Python, Unix, C etc.
 
 Recently doing kubernetes, docker, cloud functions, aws lambda and serverless
