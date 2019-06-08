@@ -12,7 +12,7 @@ You will need a domain name, eg google.exmaple.com
 Then Add a A record in your domain DNS record.
 
 In your VPS, please install `docker`, `docker-compose` before you continue.
-Clone this repo https://github.com/wmnnd/nginx-certbot
+Clone [nginx-certbot][1]
 
 in nginx-certbot/data/nginx/app.conf
 put the following content into the file
@@ -72,6 +72,7 @@ Now check your google.example.com
 
 
 More information, please refer to [Nginx and Let’s Encrypt with Docker in Less Than 5 Minutes
-][1]
+][2]
 
-[1]: https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71
+[1]: https://github.com/wmnnd/nginx-certbot
+[2]: https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71
