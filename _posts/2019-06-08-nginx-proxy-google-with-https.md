@@ -63,9 +63,12 @@ and change the email address.
 in nginx-certbot directory,
 run the following command
 
+update nginx base image to `nickleefly/nginx-proxy-google` in `docker-compose.yaml`
+
+Then run
 ```
 ./init-letsencrypt.sh
-docker-compose up
+docker-compose up -d
 ```
 
 Now check your google.example.com
