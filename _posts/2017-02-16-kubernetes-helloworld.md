@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to run Kubernetes Frontend-Backend Service on Google Cloud Platform"
+title: "How to run Kubernetes Service on GCP"
 date: 2017-02-16 20:30
 comments: true
 categories: kubernetes gcloud

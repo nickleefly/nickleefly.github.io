@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to run Nginx proxy google with https from letsencrypt"
+title: "google Nginx proxy with https from letsencrypt"
 date: 2019-06-08 20:30
 comments: true
 categories: nginx google
