@@ -44,17 +44,26 @@ In particular, if n is 2^k, for some integer k, and the recursion stops only whe
 
 
 some derivation details
-n = 2^k => logn = logk * log2 = log2^k
+```
+n = 2^k
+=> logn = log2^k
+=> logn = k * log2
 => logn = k
 
 Verify n^log3 = 3^logn
-Define x = n^log3 => logx = log3 * logn => logx = logn * log3 => logx = log3^logn
+Define x = n^log3
+=> logx = log3 * logn
+=> logx = logn * log3
+=> logx = log3^logn
 hence x = 3^logn and we get 3^logn = n^log3
+```
 
-for n digit number, T(n) = n^c = 3^k = 3^logn
+for n digit number,
+```
+T(n) = n^c = 3^k = 3^logn
 => T(n) = n^log3
 and c = log3 = 1.585
-
+```
 
 Python code
 
