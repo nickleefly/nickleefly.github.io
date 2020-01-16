@@ -16,13 +16,10 @@ Places You'll Find Me
 [![Twitter](/assets/twitter.ico )](http://www.twitter.com/nickleefly)
 [![GitHub](/assets/github.ico )](http://github.com/nickleefly)
 [![Stack Overflow](/assets/so.ico)](http://stackoverflow.com/users/1317035/nickleefly)
-[![Google+](/assets/gplus.png )](https://plus.google.com/112854091406192631393)
 [![YouTube](/assets/youtube.ico )](http://www.youtube.com/user/nickleeflyonly)
 
 "I am a hybrid"
 ---------------
-
-## Bryan Veloso http://quora.com/Bryan-Veloso
 
 I am a hybrid addicted to two things: freedom and passion. Lack of either drives me away, whether it's from a project, a freelance gig or a job.
 
