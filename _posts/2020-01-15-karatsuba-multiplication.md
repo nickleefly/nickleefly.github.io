@@ -38,7 +38,7 @@ x * y = 7006652
 
 Karatsuba's basic step works for any base B and any m, but the recursive algorithm is most efficient when m is equal to n/2, rounded up.
 
-I understood this to mean that for integers with n digits, m is the ceiling of half n (m being the exponent applied to the Base in the algorithm). This can be seen if you simply look at the definition of the algorithm.
+To elucidate, for integers with n digits, m is the ceiling of half n (m being the exponent applied to the Base in the algorithm). This can be seen if you simply look at the definition of the algorithm.
 
 In particular, if n is 2^k, for some integer k, and the recursion stops only when n is 1, then the number of single-digit multiplications is 3^k, which is n^c where c = log3
 
