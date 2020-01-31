@@ -19,7 +19,7 @@ x = a* B^m + b
 
 y = c* B^m + d
 
-x * y = B^m(ac) + B^m/2(ad+bc) + bd
+x * y = B^2m(ac) + B^m(ad+bc) + bd
 ```
 
 Now, instead of multiplying 1234 x 5678 the long way, you can do this:
