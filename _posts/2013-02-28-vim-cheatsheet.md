@@ -122,6 +122,5 @@ categories: Vim
 
 ##Reference links
 
-* [Some Vim usage link](http://nickleefly.diandian.com/?tag=vi)
 * [Learn Vim progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [http://www.catswhocode.com/blog/130-essential-vim-commands](http://www.catswhocode.com/blog/130-essential-vim-commands)
