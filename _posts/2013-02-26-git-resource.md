@@ -13,9 +13,9 @@ Here We go
 
 * [Git Documentation](http://git-scm.com/documentation)
 * [Git Cheatsheet SVG](http://ndpsoftware.com/git-cheatsheet.html)
-* [A Nice Git Learning Branch Demo](http://pcottle.github.com/learnGitBranching/?demo)
-* [Git Guide](http://rogerdudler.github.com/git-guide/)
-* [Visual Git](http://marklodato.github.com/visual-git-guide/index-en.html)
+* [A Nice Git Learning Branch Demo](http://pcottle.github.io/learnGitBranching/?demo)
+* [Git Guide](http://rogerdudler.github.io/git-guide/)
+* [Visual Git](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [Getting Git On Slideshare](http://www.slideshare.net/chacon/getting-git)
 * [Git Ready](http://gitready.com/)
 * [Everyday Git with 20 Commands](http://git-scm.com/docs/everyday)
