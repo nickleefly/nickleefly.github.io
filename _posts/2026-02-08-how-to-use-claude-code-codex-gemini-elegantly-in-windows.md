@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use Claude code, codex, Gemini elegantly in windows "
+title: "How to use Claude code, codex, Gemini elegantly in windows"
 date: 2026-02-08 16:20
 comments: true
 categories: claude, ai

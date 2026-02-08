@@ -20,6 +20,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 paginate: 4
 paginate_path: "/page/:num/"
+future: true
 
 gems :
   - jekyll-paginate
