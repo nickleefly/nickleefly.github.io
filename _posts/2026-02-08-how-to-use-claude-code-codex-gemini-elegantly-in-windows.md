@@ -30,7 +30,7 @@ Alacritty is a terminal emulator that runs on Windows, connecting to WSL.
    ```
 
 2. **Configure for WSL**:
-   Find or create the config file at `%APPDATA%\alacritty\alacritty.toml` (or `.yml` for older versions).
+   Find or create the config file at `%APPDATA%\Roaming\alacritty\alacritty.toml` (or `.yml` for older versions).
 
    Add the following to launch WSL by default:
    ```toml
@@ -248,3 +248,4 @@ Claude Code provides a CLI that is "tmux-aware".
 - **Pane 2**: Run `claude` or `gemini`.
 
 **Context Awareness**: When using `claude` inside tmux, it can inspect errors or logs visible in your other panes, making debugging faster.
+
